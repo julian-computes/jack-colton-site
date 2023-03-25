@@ -1,3 +1,2 @@
-# julian-computes-neocities
+# Jack Colton's Art Portfolio
 
-My neocities site
