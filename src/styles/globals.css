@@ -35,5 +35,5 @@ img {
 }
 
 .text-box {
-    @apply p-4 my-5 m-2 border-2 rounded-2xl;
+    @apply p-4 my-5 m-2 border-b rounded-2xl;
 }

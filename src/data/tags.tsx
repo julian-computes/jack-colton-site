@@ -1,1 +1,1 @@
-type tag = "about" | "sound" | "visual"
+type tag = "about" | "sound" | "visual";
