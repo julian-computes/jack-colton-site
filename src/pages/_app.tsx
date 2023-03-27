@@ -11,9 +11,11 @@ export default function App({Component, pageProps}: AppProps) {
       <meta name='description' content='Jack Colton Art neocities site'/>
       <meta name='viewport' content='width=device-width, initial-scale=1'/>
     </Head>
-    <main className='flex'>
-      <Navbar />
-      <Component {...pageProps} />
+    <main className='md:flex'>
+      <Navbar/>
+      <div className='max-w-4xl'>
+        <Component {...pageProps} />
+      </div>
     </main>
   </>
 }

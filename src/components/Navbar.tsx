@@ -13,7 +13,7 @@ const NavLink = ({href, text}: NavLinkProps) => (
 
 export default function Navbar() {
   return (
-    <nav className="p-1 bg-white border-gray-200">
+    <nav className="sticky top-0 z-30 p-1 bg-white border-red-500">
       <div className="flex-col p-1 container flex flex-wrap items-center justify-between mx-auto">
         <Link href="/" className="flex items-center hover:scale-105 duration-200">
           <span className="text-3xl text-center font-bold m-5 p-5">Jack Colton</span>
@@ -23,7 +23,6 @@ export default function Navbar() {
         <NavLink href='/visual' text='visual' />
         <NavLink href='/about' text='about' />
       </div>
-
     </nav>
   )
 }
