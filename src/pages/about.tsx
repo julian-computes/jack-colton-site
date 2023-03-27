@@ -7,7 +7,7 @@ export default function About() {
       <p className="p-3">
         He has recently produced multimedia installations involving the chatbot
         Cleverbot as part of the collective Noncore Projector with Rollo
-        Carpenter, Elias Jarzombek, and John O'Connor. The installations have
+        Carpenter, Elias Jarzombek, and John O&apos;Connor. The installations have
         been shown at Pierogi Gallery’s Boiler space (2018), False Flag (2019),
         Plexus Projects (2019) and will soon be shown at Czong Institute for
         Contemporary Art in Gimpo, South Korea (November 2021).
