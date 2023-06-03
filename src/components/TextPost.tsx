@@ -1,23 +1,15 @@
-import Badge from "@/components/Badge";
-import Modal from "@/components/Modal";
+import Badge from '@/components/Badge';
+import { TextPostData } from '@/data/posts'
 
-type Props = {
-  title: string;
-  body: string;
-  tag: tag;
-};
 
-export default function TextPost({ body, title, tag }: Props) {
+export default function TextPost({body, title, tag}: TextPostData) {
   return (
-    <div className="text-box flex-col">
-      <h3 className="my-5 text-3xl font-bold">{title}</h3>
-      <div className="flex pb-4 mb-4">
-        <p>{body}</p>
-        <Modal title={title}>
-          <p>{body}</p>
-        </Modal>
+    <div className='post-container flex-col'>
+      <h3 className='my-5 text-3xl font-bold'>{title}</h3>
+      <div className='flex pb-4'>
+        {body}
       </div>
-      <Badge tag={tag} />
+      <Badge tag={tag}/>
     </div>
   );
 }
