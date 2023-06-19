@@ -53,13 +53,13 @@ const PostItems: PostData[] = [
   new TextPostData('Vec Tor Bel, 2018', 'installation',
     <div>
       <p><a href='https://false-flag.org/noncoreprojector/'>Vec Tor Bel at False Flag</a></p>
-      <p><a href='https://www.johnjoconnor.net/ncp/project-two-2ljcc/'>Vec Tor Bel w/ John J. O'Connor</a></p>
+      <p><a href='https://www.johnjoconnor.net/ncp/project-two-2ljcc/'>Vec Tor Bel w/ John J. O&apos;Connor</a></p>
       <p><a href='https://www.johnjoconnor.net/ncp/project-two-2ljcc/'>Vec Tor Bel w/ Elias Jarzombek</a></p>
     </div>
   ),
   new TextPostData('Rec Lobe TV, 2022', 'installation',
     <div>
-      <p><a href='https://www.johnjoconnor.net/ncp/rec-lobe-tv/'>Rec Lobe w/ John J. O'Connor</a></p>
+      <p><a href='https://www.johnjoconnor.net/ncp/rec-lobe-tv/'>Rec Lobe w/ John J. O&apos;Connor</a></p>
       <p><a href='https://eliasjarzombek.com/rec-lobe-tv/'>Rec Lobe w/ Elias Jarzombek</a></p>
     </div>
   ),
@@ -137,11 +137,11 @@ const PostItems: PostData[] = [
   new TextPostData('Disquiet, John Bence, 2015', 'sound',
     <div>
       <p>
-        John Bence’s <a href='https://johnbence.bandcamp.com/album/disquiet'>Disquiet</a> is a composition in three
+        John Bence&apos;s <a href='https://johnbence.bandcamp.com/album/disquiet'>Disquiet</a> is a composition in three
         movements for soprano voice and cello, but what you hear is not that composition. After scoring and recording
         the full piece, Bence manipulated the recordings to produce something new. Then he wrote a new score,
         re-recorded, manipulated, and re-scored again ... and again. This Disquiet is a layering of many — the process
-        is the result. It's a slow-churning, microtonal wash, at once liquid and brilliantly crystalline in effect.
+        is the result. It&apos;s a slow-churning, microtonal wash, at once liquid and brilliantly crystalline in effect.
       </p>
       <p>
         Two timbres fracture into many. Vocals flicker in and out of being, wrestling with silence. A tectonic drone
@@ -197,10 +197,10 @@ const PostItems: PostData[] = [
         tension, and any other form that emerges, always chiseling structure from the chaos.
       </p>
       <p>
-        The Free Fall Inspirations marks a significant shift in 12z's work, being their first entirely electronic
-        recording. The album was sparked by György Pálfi’s film Free Fall, for which it was recorded as a potential
+        The Free Fall Inspirations marks a significant shift in 12z&apos;s work, being their first entirely electronic
+        recording. The album was sparked by György Pálfi&apos;s film Free Fall, for which it was recorded as a potential
         score, but it stands strong independently, conjuring its own strange images. Tracks are short — structures
-        built, scenes evoked, and then left — without repetition. 'All is Vanity’ creates a cool, distorted atmosphere
+        built, scenes evoked, and then left — without repetition. &apos;All is Vanity&apos; creates a cool, distorted atmosphere
         with strobed, guitar-like twangs jumping octaves and a squeezed, modular bass stepping around odd scales.
         ‘Patience Is Not Just A Virtue’ evokes fear and melancholy with clattering metal, low-slung modulating keys, and
         a billowing foghorn. ‘Sixteen Petals of Blue Light’ rings like a duet between an organ and the glassed vibration
@@ -270,11 +270,11 @@ const PostItems: PostData[] = [
       </p>
       <p>Editing, animation, color, sound editing & mixing, production assistance</p>
       <p><i>
-        "<a href='https://www.publicartfund.org/exhibitions/view/tony-oursler-tear-of-the-cloud'>Tear of the
+        &quot;<a href='https://www.publicartfund.org/exhibitions/view/tony-oursler-tear-of-the-cloud'>Tear of the
         Cloud</a> is [Oursler’s] newest and most extensive site-specific multimedia artwork, with five digital
         projections superimposed onto the landmarked 69th Street Transfer Bridge Gantry, the surrounding landscape, and
         the flowing water of the Hudson River itself. These spectral images combine with an evocative soundscape to
-        create a dramatic experience that transforms Riverside Park each night."</i> - Public Art Fund
+        create a dramatic experience that transforms Riverside Park each night.&quot;</i> - Public Art Fund
       </p>
     </div>
   ),
@@ -294,11 +294,11 @@ const PostItems: PostData[] = [
     <div>
       <p>Editing, animation, color, sound editing & mixing, production assistance</p>
       <p><a href='https://tonyoursler.com/6th-hobart'>https://tonyoursler.com/6th-hobart</a></p>
-      <p><i>"For Dark MOFO Oursler has produced a site specific sound and light intervention in the Beaumaris Zoo. The
+      <p><i>&quot;For Dark MOFO Oursler has produced a site specific sound and light intervention in the Beaumaris Zoo. The
         artist takes a darkly humorous approach to the erosion of critical thought, rise of fake news, conspiracy
         theories, superstitions, and all forms of magical thinking while asking the question: Is truth on the verge of
         extinction? The cage which was the home of the last living Thylacine, or Tasmanian Tiger, becomes the site of a
-        digital de-extinction of the legendary beast via sweeping projections, music and light."</i> - Dark MOFO</p>
+        digital de-extinction of the legendary beast via sweeping projections, music and light.&quot;</i> - Dark MOFO</p>
 
     </div>
   ),
@@ -324,14 +324,14 @@ const PostItems: PostData[] = [
         href='https://museedartsdenantes.nantesmetropole.fr/en/home/informations-actus/expositions/archives-expositions/hypnose.html'/>
       </p>
       <p>
-        <i>"Video sketches, close to the spirit of early cinema, animate a decor populated with multiple objects,
+        <i>&quot;Video sketches, close to the spirit of early cinema, animate a decor populated with multiple objects,
           sculptures and screens … Tony Oursler mixes multiple visual references to the history of hypnotism and various
           contemporary anxieties linked to digital technologies.
           The installation consists of a dozen works in which sculpture and video art interact. For example, Franz
           Mesmer and his caricature, a donkey hypnotizing a patient, Magnetic Tree, a four-metre high tree that alludes
           to the tree that Puységur had magnetized and to which patients were connected by ordinances to heal, as well
-          as a piece referring to the beat generation and Brion Gyson's Dreammachine, producing a disturbing visual
-          phenomenon that induces relaxation, in a similar way to a hypnosis session."</i> - Musée d’arts de Nantes
+          as a piece referring to the beat generation and Brion Gyson&apos;s Dreammachine, producing a disturbing visual
+          phenomenon that induces relaxation, in a similar way to a hypnosis session.&quot;</i> - Musée d’arts de Nantes
       </p>
     </div>
   ),
@@ -340,9 +340,9 @@ const PostItems: PostData[] = [
       <p>Editing, animation, color, sound editing & mixing, production assistance</p>
       <p><PlainLink href='https://tonyoursler.com/black-box'/></p>
       <p><PlainLink href='https://tonyoursler.kmfa.gov.tw/'/></p>
-      <p><i>"Black Box is the first full-scale retrospective of Tony Oursler in Asia, this momentous exhibition will
+      <p><i>&quot;Black Box is the first full-scale retrospective of Tony Oursler in Asia, this momentous exhibition will
         showcase his most definitive video installations, experimental films, and cinema work over nearly four
-        decades."</i> - Kaohsiung Museum of Fine Arts</p>
+        decades.&quot;</i> - Kaohsiung Museum of Fine Arts</p>
     </div>
   ),
   new TextPostData('Anomalous, 2022', 'sound, visual',
@@ -350,13 +350,13 @@ const PostItems: PostData[] = [
       <p>Editing, animation, color, production assistance</p>
       <p><PlainLink href='https://tonyoursler.com/anomalous'/></p>
       <p><PlainLink href='https://elysee.ch/en/2022/06/tony-oursler-anomalous/'/></p>
-      <p><i>"For the inauguration of its new building, Photo Elysée gives carte blanche to Tony Oursler. On this
+      <p><i>&quot;For the inauguration of its new building, Photo Elysée gives carte blanche to Tony Oursler. On this
         occasion the American artist presents three video installations in the LabElysée space. By exhibiting a
         particular theme, the testimonies of encounters with unidentified flying objects (UFOs), Oursler questions our
         relationship to images and their influence in a world where screens are becoming increasingly widespread.
         Consisting of photographs, documents and videos depicting UFOs, the installations explore the visual constructs
         of ufology. They invite visitors to take a position on what they see and question the status of the information
-        presented to them."</i> - Photo Elysee</p>
+        presented to them.&quot;</i> - Photo Elysee</p>
     </div>
   ),
   new TextPostData('Crossing Neptune, 2022', 'sound, visual',
@@ -364,10 +364,10 @@ const PostItems: PostData[] = [
       <p>Editing, animation, color, sound editing & mixing, production assistance</p>
       <p><PlainLink href='https://www.fotofocus.org/fotofocus-exhibition/tony-oursler-crossing-neptune'/></p>
       <p><PlainLink href='https://tonyoursler.com/crossing-neptune'/></p>
-      <p><i>"Crossing Neptune is an exhibition featuring archival works on the theme of water from the personal
+      <p><i>&quot;Crossing Neptune is an exhibition featuring archival works on the theme of water from the personal
         collection of artist Tony Oursler—photographs, mostly anonymous, of baptisms, “blob monsters,” ice formations,
         and actual vessels of holy water—plus original installation works by Oursler on water as a transformative
-        element embodying a long list of inherited, paranormal mythologies."</i> - Fotofocus</p>
+        element embodying a long list of inherited, paranormal mythologies.&quot;</i> - Fotofocus</p>
     </div>
   ),
   new TextPostData('mAcHiNe E.L.F., 2023', 'sound, visual',
@@ -375,10 +375,10 @@ const PostItems: PostData[] = [
       <p>Editing, animation, color, sound editing & mixing, graphic design, production assistance</p>
       <PlainLink href='https://tonyoursler.com/machine-elf'/>
       <PlainLink href='https://www.lehmannmaupin.com/exhibitions/tony-oursler-7'/>
-      <p><i>"For his latest exhibition the artist has created a series of “electrified” silhouettes that feature painted
+      <p><i>&quot;For his latest exhibition the artist has created a series of “electrified” silhouettes that feature painted
         and printed collages interspersed with embedded digital displays, as well as an immersive, large-scale
         installation of optical crystal structures that act as reflecting screens for a kaleidoscopic digital projection
-        of otherworldly performers and hand drawn and AI-generated animations."</i> - Lehmann Maupin</p>
+        of otherworldly performers and hand drawn and AI-generated animations.&quot;</i> - Lehmann Maupin</p>
     </div>
   ),
   new VideoPostData('Jack Colton Editing Reel, 2021', 'https://player.vimeo.com/video/587666876', ''),
