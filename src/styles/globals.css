@@ -34,10 +34,21 @@ img {
     height: auto;
 }
 
+iframe {
+    width: 70vh;
+    height: 40vh;
+    padding-bottom: 1em;
+    display: block;
+}
+
 .post-container {
     @apply p-4 my-5 m-2 border-b rounded-2xl;
 }
 
 .post-container a {
     @apply text-blue-600;
+}
+
+.text-post-body p {
+    @apply py-2;
 }

@@ -5,11 +5,9 @@ export default function VideoPost({title, url, description, frameClass, tag}: Vi
 
   return (
     <div className='post-container'>
-      <h3 className='text-3xl font-bold mb-4'>{title}</h3>
+      <h3 className='text-3xl font-bold mb-7'>{title}</h3>
       <iframe
-        className={frameClass}
-        width='500em'
-        height='400em'
+        className={`${frameClass}`}
         src={url}
         allowFullScreen
         title={title}

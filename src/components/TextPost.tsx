@@ -6,7 +6,7 @@ export default function TextPost({body, title, tag}: TextPostData) {
   return (
     <div className='post-container flex-col'>
       <h3 className='my-5 text-3xl font-bold'>{title}</h3>
-      <div className='flex pb-4'>
+      <div className='flex pb-4 text-post-body'>
         {body}
       </div>
       <Badge tag={tag}/>
